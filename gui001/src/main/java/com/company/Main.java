@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
 //        fmMain
         System.out.println("Hello Word!");
-        System.out.println("Mac Test new");
+        System.out.println("Windows Test");
 //        fm1 = new fmMain();
 //        fm1.
         dlgDemo d1 = new dlgDemo();
