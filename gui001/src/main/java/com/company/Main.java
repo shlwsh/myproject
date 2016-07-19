@@ -14,12 +14,13 @@ public class Main {
     public static void main(String[] args) {
 //        fmMain
         System.out.println("Hello Word!");
+        System.out.println("Mac Test");
 //        fm1 = new fmMain();
 //        fm1.
         dlgDemo d1 = new dlgDemo();
 
 //        d1.setModal(true);
-        d1.setTitle("测试用例");
+        d1.setTitle("测试用例 hello world!");
 //        d1.setSize( );
         d1.pack();
         d1.setSize(new Dimension(450,500));
